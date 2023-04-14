@@ -3,4 +3,8 @@
   top: 0;
   right: -210px;
   z-index: 1;
+  background-image: url('../../../images/kaufman-triangle.svg');
+  background-size: auto 100%;
+  min-width: 877px;
+  min-height: 877px;
 }
